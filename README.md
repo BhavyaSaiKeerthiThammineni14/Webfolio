@@ -1,10 +1,7 @@
-Certainly! Here’s a sample README file for your portfolio website hosted on GitHub:
-
----
 
 # My Portfolio Website
 
-Welcome to my personal portfolio website repository! This website showcases my projects, skills, and experiences. You can visit the live site [here](https://github.com/BhavyaSaiKeerthiThammineni14/Webfolio)
+Welcome to my personal portfolio website repository! This website showcases my projects, skills, and experiences. You can visit the live site [here](https://bhavyasaikeerthithammineni14.github.io/Webfolio/)
 
 ## Table of Contents
 
@@ -56,9 +53,9 @@ Feel free to explore the various sections of the website to learn more about my 
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- Email: bhavyaskthammineni@gmail.com
-- LinkedIn: https://www.linkedin.com/in/bhavya-sai-keerthi-thammineni/
-- Twitter: https://x.com/sai_thammi92820
+- Email:[📧]( bhavyaskthammineni@gmail.com)
+- LinkedIn: [🖇️](https://www.linkedin.com/in/bhavya-sai-keerthi-thammineni/)
+- Twitter: [X](https://x.com/sai_thammi92820)
 
 Thank you for visiting my portfolio website!
 
