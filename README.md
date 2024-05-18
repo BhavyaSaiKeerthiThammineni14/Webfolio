@@ -4,7 +4,7 @@ Certainly! Here’s a sample README file for your portfolio website hosted on Gi
 
 # My Portfolio Website
 
-Welcome to my personal portfolio website repository! This website showcases my projects, skills, and experiences. You can visit the live site [here](https://yourusername.github.io/).
+Welcome to my personal portfolio website repository! This website showcases my projects, skills, and experiences. You can visit the live site [here](https://github.com/BhavyaSaiKeerthiThammineni14/Webfolio)
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ To run this website locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/BhavyaSaiKeerthiThammineni14/Webfolio.git
     ```
 
 2. Navigate to the project directory:
