@@ -57,6 +57,5 @@ If you have any questions or feedback, feel free to reach out to me:
 - LinkedIn: [🖇️](https://www.linkedin.com/in/bhavya-sai-keerthi-thammineni/)
 - Twitter: [X](https://x.com/sai_thammi92820)
 
-Thank you for visiting my portfolio website!
+Thank you for visiting my portfolio website!!  🫶🏻🫶🏻
 
----
